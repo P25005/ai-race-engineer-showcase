@@ -12,12 +12,12 @@ Analiza datos de telemetría (`.ld`), ficheros de *setup* (`.json`) y el *feedba
 
 ## 🎥 Demostración de la Aplicación
 
-<img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/1a94fc41-259a-4e77-b3af-7f2d512c01e6" />
 
-*<p align="center">Captura de la nterfaz de Angular principal con texto de prueba</p>*
+<img width="1920" height="1080" alt="Captura de pantalla (1)" src="https://github.com/user-attachments/assets/1a94fc41-259a-4e77-b3af-7f2d512c01e6" />
+*<p align="center">Captura de la interfaz de Angular principal con texto de prueba</p>*
+
 
 <img width="1920" height="1080" alt="Captura de pantalla (2)" src="https://github.com/user-attachments/assets/166fcaa4-310f-4d25-9365-b88b7eb2c986" />
-
 *<p align="center">Ej: Captura de la respuesta de la herramienta a la consulta anterior.</p>*
 
 ---
